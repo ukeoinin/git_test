@@ -1,0 +1,17 @@
+[33mcommit b6bd1b8606d08683c5611af3b0d9282f6d060c96[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ukeoinin <tadanotawamure@gmail.com>
+Date:   Mon Jun 17 08:55:12 2024 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit bcff678bf3fa727b4f204e482b759c65856b79fd[m
+Author: ukeoinin <tadanotawamure@gmail.com>
+Date:   Mon Jun 17 08:50:09 2024 -0500
+
+    add hello_world.txt
+
+[33mcommit 2f6a98c8d451d094d3cd44c6a6f2bfd727a705e0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ukeoinin <tadanotawamure@gmail.com>
+Date:   Mon Jun 17 08:47:11 2024 -0500
+
+    Initial commit
